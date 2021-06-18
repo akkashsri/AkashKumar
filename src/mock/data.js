@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Hello Peeps! 👋 I am a Frontend Developer and a Javascript enthusiast. I Love to code in Java and also MySQL is my expertise. Currently I am learning android and making my grip strong in Data Structures and Algorithms.',
-  paragraphTwo: 'Apart from all these I love to read non-fiction and self help books. My favourite book is " The Power of your Subconscious Mind By Dr. Joseph Murphy ". This is because I like to know about mind related facts and thier powers.',
+  paragraphTwo: 'Apart from all these I love to read non-fiction and self-help books. My favourite book is " The Power of your Subconscious Mind By Dr. Joseph Murphy ". This is because I like to know about mind related facts and thier powers.',
   paragraphThree: 'I am not very much into sports but I like to spend my time playing badminton with my friends. And That\'s all about me and myself 😉',
   resume: 'https://resume.io/r/3eXDUpi4m', // if no resume, the button will not show up
 };
