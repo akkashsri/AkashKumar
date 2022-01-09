@@ -46,12 +46,12 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'dragon.png',
-    title: 'Dragon Game',
-    info: 'This is a dragon run game made purely with VanillaJS, HTML and CSS. It\'s a fun game. You can make the dragon jump upwards and it also walk forward and backwards. Automatic score updation is added. You just don\'t have to collide with the dragon to win the game.  ',
+    img: 'smooth.png',
+    title: 'Smooth Scroll Website',
+    info: 'This is a static website. I made this website using HTML, CSS, JavaScript and Smooth Scroll Effects. A lot of CSS has been used in making of this website for creating amazing scrolling effects as well as hover effects. ',
     info2: '',
-    url: 'https://akkashsri.github.io/DragonGame/',
-    repo: 'https://github.com/akkashsri/DragonGame', // if no repo, the button will not show up
+    url: 'https://akkashsri.github.io/ScrollingWebsite/',
+    repo: 'https://github.com/akkashsri/ScrollingWebsite', // if no repo, the button will not show up
   },
 ];
 
